@@ -1,0 +1,14 @@
+body{
+	background-color: blue;
+}
+
+h1{color: red;
+}
+
+#map { height: 550px;
+       width: 1000px;
+ }
+
+#texto { height: 50px;
+         color: red;
+ }
